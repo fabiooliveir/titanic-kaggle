@@ -1,5 +1,5 @@
-#Titanic - Aprendizado de máquina com o desastre
-##Previsão da sobrevivência no Titanic e familiarize-se com os fundamentos do ML
+# Titanic - Aprendizado de máquina com o desastre
+## Previsão da sobrevivência no Titanic e familiarize-se com os fundamentos do ML
 
 O naufrágio do Titanic é um dos naufrágios mais infames da história.
 
